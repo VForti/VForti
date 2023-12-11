@@ -23,7 +23,7 @@ Here are some of my technical skills:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VForti&show_icons=true&hide=contribs,prs&theme=radical)
 
 
 
