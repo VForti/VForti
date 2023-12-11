@@ -21,11 +21,5 @@ Here are some of my technical skills:
 [![Telegram](https://img.shields.io/badge/Telegram-Message-blue)](https://t.me/VitaliiShushkov)
 
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VForti&show_icons=true&hide=contribs,prs&theme=radical)
-
-
-
 
 
