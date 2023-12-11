@@ -1,5 +1,5 @@
 # Hi there, I'm [Your Name] 👋
-![Profile views](https://gpvc.arturio.dev/your-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
 ## 🚀 About Me
 
